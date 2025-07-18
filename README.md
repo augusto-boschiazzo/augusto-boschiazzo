@@ -1,4 +1,4 @@
-## Hola 👋 Soy Augusto
+# Hola 👋 Soy Augusto
 
 Soy un estudiante de Sistemas en la Universidad Nacional de La Plata.  
 Desarrollo proyectos web full stack, tanto personales como en equipo.
@@ -10,23 +10,14 @@ Desarrollo proyectos web full stack, tanto personales como en equipo.
 - Email: boschiazzomaugusto@gmail.com
 
 ## ⚙ Tecnologías
-- 🖥️ Lenguajes de Programación
-  - Python
-  - JavaScript
-  - Java
-  - C++
-  - Bash
-  - Rust
 
-- 🧱 Frameworks y Librerías
-  - Backend: Django
-  - Frontend: React, Next.js
-  - Estilos: Tailwind CSS
-  - Gráficos: OpenGL
+```js
+🖥️ lenguajes_de_programacion = [Python, JavaScript, Java, C++, Bash, Rust];
 
-- 🛠️ Herramientas y Tecnologías
-  - Git
-  - MySQL
+🧱 frameworks_y_librerias = [Backend: { Django }, Frontend: { React, Next.js }, Estilos: { Tailwind CSS }, Gráficos: { OpenGL }]
+
+🛠️ herramientas_y_tecnologias = [Git, MySQL]
+```
 
 ## 📦 Repositorios
 
