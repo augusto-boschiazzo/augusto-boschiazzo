@@ -14,7 +14,7 @@ Desarrollo proyectos web full stack, tanto personales como en equipo.
 ```js
 🖥️ lenguajes_de_programacion = [Python, JavaScript, Java, C++, Bash, Rust];
 
-🧱 frameworks_y_librerias = [Backend: { Django }, Frontend: { React, Next.js }, Estilos: { Tailwind CSS }, Gráficos: { OpenGL }]
+🧱 frameworks_y_librerias = [Backend: { Django, }, Frontend: { React, Next.js, }, Estilos: { Tailwind CSS, }, Gráficos: { OpenGL, }]
 
 🛠️ herramientas_y_tecnologias = [Git, MySQL]
 ```
