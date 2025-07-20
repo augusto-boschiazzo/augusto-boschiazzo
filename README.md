@@ -4,6 +4,8 @@ Soy un estudiante de Sistemas en la Universidad Nacional de La Plata.
 Desarrollo proyectos web full stack, tanto personales como en equipo.
 - Estoy trabajando en una página de inicio para estudiantes
 - Actualmente me encuentro aprendiendo sobre Physics Engines
+<br/>
+Portfolio: https://augusto-boschiazzo.vercel.app
 
 ## 📫 Contacto
 
