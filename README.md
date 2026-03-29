@@ -26,7 +26,7 @@ Portfolio: https://augusto-boschiazzo.vercel.app
 En este perfil de GitHub se pueden encontrar repositorios de proyectos personales, y de materias de la facultad.
 <br/>
 <br/>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-boschiazzo&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" />
+[![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=augusto-boschiazzo)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📖 Cursando
 
