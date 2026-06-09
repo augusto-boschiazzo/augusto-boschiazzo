@@ -26,7 +26,7 @@ Desarrollo proyectos web full stack, tanto personales como en equipo.
 En este perfil de GitHub se pueden encontrar repositorios de proyectos personales, y de materias de la facultad.
 
 <a href="https://github.com/augusto-boschiazzo/taller">
-  <img width="265" src="https://github-readme-stats-git-master-augusto-boschiazzos-projects.vercel.app/api/pin/?username=augusto-boschiazzo&repo=taller&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+  <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=augusto-boschiazzo&repo=taller&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad" />
 </a>
 
 github-readme-stats-git-master-augusto-boschiazzos-projects.vercel.app
