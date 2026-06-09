@@ -25,7 +25,11 @@ Desarrollo proyectos web full stack, tanto personales como en equipo.
 
 En este perfil de GitHub se pueden encontrar repositorios de proyectos personales, y de materias de la facultad.
 
-[![Augustos's GitHub stats](https://github-readme-stats-git-master-augusto-boschiazzos-projects.vercel.app/api?username=augusto-boschiazzo)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/augusto-boschiazzo/taller">
+  <img width="265" src="https://github-readme-stats-git-master-augusto-boschiazzos-projects.vercel.app/api/pin/?username=augusto-boschiazzo&repo=taller&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad"/>
+</a>
+
+github-readme-stats-git-master-augusto-boschiazzos-projects.vercel.app
 
 ## 📖 Cursando
 
