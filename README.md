@@ -25,6 +25,12 @@ Desarrollo proyectos web full stack, tanto personales como en equipo.
 
 En este perfil de GitHub se pueden encontrar repositorios de proyectos personales, y de materias de la facultad.
 
+### Stats
+
+<img alt="Augusto's stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=augusto-boschiazzo">
+
+### Repositorios de la Facultad
+
 <div align="center">
   <h3> Primer año </h3>
 
